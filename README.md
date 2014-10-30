@@ -1,4 +1,4 @@
-KYoon105.github.io
+KYoon.github.io
 ==================
 
-My DBC Phase 0 GitHub pages site
+Personal Site
